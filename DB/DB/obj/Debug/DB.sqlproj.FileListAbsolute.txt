@@ -1,0 +1,9 @@
+C:\Users\Mishk\documents\visual studio 2015\Projects\DB\DB\bin\Debug\DB.dacpac
+C:\Users\Mishk\documents\visual studio 2015\Projects\DB\DB\bin\Debug\DB.dll
+C:\Users\Mishk\documents\visual studio 2015\Projects\DB\DB\bin\Debug\DB.pdb
+C:\Users\Mishk\documents\visual studio 2015\Projects\DB\DB\obj\Debug\Model.xml
+C:\Users\Mishk\documents\visual studio 2015\Projects\DB\DB\obj\Debug\refactor.xml
+C:\Users\Mishk\documents\visual studio 2015\Projects\DB\DB\obj\Debug\postdeploy.sql
+C:\Users\Mishk\documents\visual studio 2015\Projects\DB\DB\obj\Debug\predeploy.sql
+C:\Users\Mishk\documents\visual studio 2015\Projects\DB\DB\obj\Debug\DB.dll
+C:\Users\Mishk\documents\visual studio 2015\Projects\DB\DB\obj\Debug\DB.pdb
